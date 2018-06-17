@@ -18,7 +18,7 @@ export default class App extends React.Component {
       
 
 
-      alert( frases[numero])
+      alert(frases[numero])
     }
 
     return (
